@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstProyect</string>
+    <string name="TextoPrincipal">Bienvenido</string>
+    <string name="TextoBoton">Entrar</string>
+
+</resources>

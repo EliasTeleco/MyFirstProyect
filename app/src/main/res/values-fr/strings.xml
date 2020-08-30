@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="TextoPrincipal">Bienvenue</string>
+    <string name="TextoBoton">Entrer</string>
+</resources>
